@@ -1,4 +1,4 @@
-# Netflix-Clone-With-HTML-CSS-JS
+# NetflixClone-With-HTML-CSS-JS
 This is a clone for Netflix developed using **HTML, CSS and JavaScript.**
 
 ## 📸 Screenshots
